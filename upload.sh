@@ -1,0 +1,1 @@
+rsync -rtvzP ./ root@asyncawait.xyz:/root/api
