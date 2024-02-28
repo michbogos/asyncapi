@@ -1,1 +1,1 @@
-rsync -rtvzP ./ root@asyncawait.xyz:/root/api
+rsync -rtvzP ./ root@asyncawait.xyz:/root/api --exclude .git
